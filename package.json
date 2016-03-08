@@ -1,0 +1,23 @@
+{
+  "name": "wechat-share-express-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moajs/wechat-share-express-middleware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moajs/wechat-share-express-middleware/issues"
+  },
+  "homepage": "https://github.com/moajs/wechat-share-express-middleware#readme",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "wechat-api": "^1.25.1"
+  }
+}
